@@ -10,7 +10,7 @@
 ### 1.1. Git
 
 ```bash
-pip install . git+https://github.com/sword4869/mytree.git
+pip install git+https://github.com/sword4869/mytree.git
 ```
 
 ### 1.2. Manual
